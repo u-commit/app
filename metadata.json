@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TechHaven - Đỉnh Cao Công Nghệ",
+  "description": "Cửa hàng cung cấp các thiết bị công nghệ cao cấp nhất với trợ lý ảo tư vấn kỹ thuật chuyên sâu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
